@@ -125,8 +125,8 @@ header_pages:
   - FAQ.md
 
 minima:
-#  skin: solarized-dark
-  skin: dark
+  skin: solarized-dark
+#   skin: dark
 #  date_format: "%b %-d, %Y"
   social_links:
 #     rss                  : rss
