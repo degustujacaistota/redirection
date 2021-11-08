@@ -66,10 +66,10 @@ paginate                 : 1
 remote_theme             : helvm/minima
 
 ## jekyll-seo-tag
-title                    : "Heavenly Esoteric Little Virtual Machine"
-tagline                  : "Heavenly Esoteric Little Virtual Machine Evaluator Interpreter Assembler Transpiler Schemer"
+title                    : "Degustująca Istota"
+tagline                  : "Degustująca Istota"
 description: >-
-  Documentation of Heavenly Esoteric Little Virtual Machine - Evaluator, Interpreter, Assembler, Transpiler & Schemer
+  Degustująca Istota
 url                      : "https://helvm.github.io/"
 author:
   name                   : "Kamil Adam"
